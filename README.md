@@ -1,0 +1,5 @@
+# data_science_playground
+
+This repository is a collection of data science related projects for me to try out different techniques.
+
+- Dog Breed Classifier using Stanford Dogs Dataset (Transfer learning with ResNet50)
